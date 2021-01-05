@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="easygautam.permission">
+    
+    <application>
+
+        <!-- Activity to handle permissions -->
+        <activity android:name=".EGPermissionActivity"
+            android:theme="@style/EGTheme.Transparent"/>
+
+    </application>
+
+</manifest>
